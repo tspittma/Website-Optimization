@@ -1,4 +1,5 @@
 ## Website Performance Optimization portfolio project
+[live link](https://tspittma.github.io/Website-Optimization/)
 
 ### Optimized the provided online portfolio for speed using Google's PageSpeed tools.
 
